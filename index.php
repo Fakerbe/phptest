@@ -1,9 +1,3 @@
-<?php
-    //code
-    echo "this is a test";
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +7,8 @@
     <title>This is a test</title>
 </head>
 <body>
-    <h1>Test</h1>
+    <h1>This is a Test</h1>
+    <?php 
+        include("test.php")?>
 </body>
 </html>
